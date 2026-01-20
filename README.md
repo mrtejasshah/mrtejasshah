@@ -25,7 +25,7 @@ I build end-to-end ML systems: from data + training to deployment, monitoring, a
 ## 🚀 Featured projects
 ### 🎲 Snake & Ladder Game
 - **What it is**: A fun Snake & Ladder game implementation (single-player / multiplayer / CLI / GUI — your choice).
-- **Repo**: `https://github.com/<mrtejasshah>/<YOUR_SNAKE_AND_LADDER_REPO>`
+- **Repo**: `https://github.com/mrtejasshah/<YOUR_SNAKE_AND_LADDER_REPO>`
 - **Highlights**: Clean game logic, testable design, and optional UI.
 
 > Tip: Once you have the game repo ready, replace the link above with your real repo URL and add a screenshot/GIF.
@@ -36,7 +36,7 @@ I build end-to-end ML systems: from data + training to deployment, monitoring, a
 ### 🐍 Contribution Snake
 This auto-generates the “snake” animation from your GitHub contribution graph.
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/<metejasshah>/<mrtejasshah>/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/metejasshah/mrtejasshah/output/github-contribution-grid-snake.svg)
 
 ### ✅ Recent work
 - Building ML projects, experimenting with models, and shipping production-ready pipelines
@@ -45,8 +45,8 @@ This auto-generates the “snake” animation from your GitHub contribution grap
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<mrtejasshah>&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<mrtejasshah>&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtejasshah&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtejasshah&layout=compact)
 
 ---
 
