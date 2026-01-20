@@ -32,18 +32,6 @@ I build end-to-end ML systems: from data + training to deployment, monitoring, a
 
 ---
 
-## 📈 Activity
-### 🐍 Contribution Snake
-This auto-generates the “snake” animation from your GitHub contribution graph.
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/metejasshah/mrtejasshah/output/github-contribution-grid-snake.svg)
-
-### ✅ Recent work
-- Building ML projects, experimenting with models, and shipping production-ready pipelines
-- Improving code quality, tests, and CI/CD
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtejasshah&show_icons=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtejasshah&layout=compact)
