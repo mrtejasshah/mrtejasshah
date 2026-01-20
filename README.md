@@ -1,4 +1,4 @@
-# Hi, I'm <Tejas Shah> 👋
+# Hi, I'm Tejas Shah 👋
 **AI/ML Engineer** | Deep Learning • NLP • Computer Vision • MLOps
 
 I build end-to-end ML systems: from data + training to deployment, monitoring, and iteration.
@@ -52,5 +52,5 @@ This auto-generates the “snake” animation from your GitHub contribution grap
 
 ## 🤝 Connect with me
 - **LinkedIn**: `https://www.linkedin.com/in/<YOUR_HANDLE>/`
-- **Email**: `<tejasashah2004@gmail.com>`
+- **Email**: `tejasashah2004@gmail.com`
 
